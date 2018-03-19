@@ -34,6 +34,8 @@ $ npm i -g @hspkg/boom
 $ boom
 ```
 
+![](https://cdn.int64ago.org/yphsrojf.gif)
+
 ## License
 
 MIT © [Cody Chan](https://int64ago.org/)

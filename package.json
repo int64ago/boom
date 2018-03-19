@@ -1,7 +1,7 @@
 {
   "name": "@hspkg/boom",
   "version": "1.0.0",
-  "description": "A toolkit for CDN deploy.",
+  "description": "A toolkit for CDN deployment.",
   "main": "src/index.js",
   "bin": {
     "boom": "cli.js"
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "cdn",
-    "deploy"
+    "deployment",
+    "toolkit"
   ],
   "author": "Cody Chan <int64ago@gmail.com>",
   "license": "MIT",

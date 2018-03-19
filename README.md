@@ -3,7 +3,7 @@
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][npm-url]
 
-A toolkit for CDN deploy.
+A toolkit for CDN deployment.
 
 ## Background
 

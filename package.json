@@ -1,0 +1,25 @@
+{
+  "name": "@hspkg/boom",
+  "version": "1.0.0",
+  "description": "A toolkit for CDN deploy.",
+  "main": "src/index.js",
+  "bin": {
+    "boom": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/int64ago/boom.git"
+  },
+  "keywords": [
+    "cdn",
+    "deploy"
+  ],
+  "author": "Cody Chan <int64ago@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "co": "^4.6.0",
+    "inquirer": "^3.2.2",
+    "update-notifier": "^2.3.0"
+  }
+}

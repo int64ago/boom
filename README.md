@@ -2,6 +2,8 @@
 
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][npm-url]
+[![JavaScript Style Guide][standard-image]][standard-url]
+
 
 A toolkit for CDN deployment.
 
@@ -44,3 +46,5 @@ MIT © [Cody Chan](https://int64ago.org/)
 [npm-image]: https://img.shields.io/npm/v/@hspkg/boom.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/@hspkg/boom
 [downloads-image]: https://img.shields.io/npm/dt/@hspkg/boom.svg?style=flat-square
+[standard-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square
+[standard-url]: https://standardjs.com

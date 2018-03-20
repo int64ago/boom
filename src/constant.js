@@ -5,5 +5,5 @@ module.exports = {
   FIXED: 'Fixed Version',
   CURRENT: 'Current Version',
   LATEST: 'Auto-Incremental Version',
-  CUSTOM: 'Custom Version',
+  CUSTOM: 'Custom Version'
 }

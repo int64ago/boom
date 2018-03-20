@@ -25,6 +25,8 @@ The tool is a gadget to do these things better for you. If you have different **
 
 ## Usage
 
+In the root directory of project:
+
 ```bash
 $ npx @hspkg/boom
 ```
@@ -36,7 +38,9 @@ $ npm i -g @hspkg/boom
 $ boom
 ```
 
-[![asciicast](https://asciinema.org/a/WkwNbnr04kr4xdr20OIfrSIdC.png)](https://asciinema.org/a/WkwNbnr04kr4xdr20OIfrSIdC)
+<p align="center">
+<img src="https://cdn.int64ago.org/l3j47tlp.svg" width="600" alt="screenshot">
+</p>
 
 ## License
 

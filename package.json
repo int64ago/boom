@@ -1,6 +1,6 @@
 {
   "name": "@hspkg/boom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A toolkit for CDN deployment.",
   "main": "src/index.js",
   "bin": {

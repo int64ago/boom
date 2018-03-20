@@ -36,7 +36,7 @@ $ npm i -g @hspkg/boom
 $ boom
 ```
 
-![](https://cdn.int64ago.org/yphsrojf.gif)
+[![asciicast](https://asciinema.org/a/WkwNbnr04kr4xdr20OIfrSIdC.png)](https://asciinema.org/a/WkwNbnr04kr4xdr20OIfrSIdC)
 
 ## License
 
